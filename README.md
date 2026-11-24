@@ -148,6 +148,6 @@ O script `engine/look.py` roda uma inspeção visual e auditiva automática no v
 
 Desenvolvido por **Marcelo Vydo**  
 - Instagram: [@marcelo.vydo](https://instagram.com/marcelo.vydo)  
-- Portfólio & Projetos: [vydo.com.br](https://vydo.com.br)
+- Portfólio & Projetos: [vydo.com.br](https://vydo-code.vercel.app)
 
 Dúvidas ou sugestões? Abra uma issue ou mande uma DM com a palavra **FLUXO**!
