@@ -1,0 +1,18 @@
+name: "pipeline-motion-design"
+title: "Pipeline de Produção de Motion Design"
+description: "Diretor de Motion → Roteirista & Storyboard → Assets & Áudio → Motion Designer (HyperFrames/Remotion) → QA & Render Final"
+
+steps:
+  - id: "step-01-diretor-motion"
+    file: "steps/step-01-diretor-motion.md"
+  - id: "step-02-roteirista-storyboard"
+    file: "steps/step-02-roteirista-storyboard.md"
+  - id: "step-03-checkpoint-storyboard"
+    file: "steps/step-03-checkpoint-storyboard.md"
+    checkpoint: true
+  - id: "step-04-assets-audio"
+    file: "steps/step-04-assets-audio.md"
+  - id: "step-05-motion-designer"
+    file: "steps/step-05-motion-designer.md"
+  - id: "step-06-qa-render"
+    file: "steps/step-06-qa-render.md"

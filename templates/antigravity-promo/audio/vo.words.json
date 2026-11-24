@@ -1,0 +1,1362 @@
+[
+ {
+  "word": "Peraí...",
+  "start": 0.0,
+  "end": 0.3086
+ },
+ {
+  "word": "tu",
+  "start": 0.6423,
+  "end": 0.7876
+ },
+ {
+  "word": "tá",
+  "start": 0.7876,
+  "end": 0.9329
+ },
+ {
+  "word": "achando",
+  "start": 0.9329,
+  "end": 1.3051
+ },
+ {
+  "word": "que",
+  "start": 1.3051,
+  "end": 1.4958
+ },
+ {
+  "word": "só",
+  "start": 1.4958,
+  "end": 1.6411
+ },
+ {
+  "word": "o",
+  "start": 1.6411,
+  "end": 1.741
+ },
+ {
+  "word": "Claude...",
+  "start": 1.741,
+  "end": 2.0678
+ },
+ {
+  "word": "ou",
+  "start": 2.1478,
+  "end": 2.3389
+ },
+ {
+  "word": "um",
+  "start": 2.3389,
+  "end": 2.53
+ },
+ {
+  "word": "computador",
+  "start": 2.53,
+  "end": 3.1987
+ },
+ {
+  "word": "da",
+  "start": 3.1987,
+  "end": 3.3897
+ },
+ {
+  "word": "NASA",
+  "start": 3.3897,
+  "end": 3.7002
+ },
+ {
+  "word": "fazem",
+  "start": 3.7002,
+  "end": 4.0704
+ },
+ {
+  "word": "um",
+  "start": 4.0704,
+  "end": 4.2615
+ },
+ {
+  "word": "vídeo",
+  "start": 4.2615,
+  "end": 4.6316
+ },
+ {
+  "word": "desse",
+  "start": 4.6316,
+  "end": 5.0018
+ },
+ {
+  "word": "nível?",
+  "start": 5.0018,
+  "end": 5.372
+ },
+ {
+  "word": "Pensou",
+  "start": 5.652,
+  "end": 6.0609
+ },
+ {
+  "word": "errado,",
+  "start": 6.0609,
+  "end": 6.4698
+ },
+ {
+  "word": "meu",
+  "start": 6.4698,
+  "end": 6.7084
+ },
+ {
+  "word": "parceiro!",
+  "start": 6.7084,
+  "end": 7.2309
+ },
+ {
+  "word": "Cara,",
+  "start": 7.4109,
+  "end": 7.6281
+ },
+ {
+  "word": "eu",
+  "start": 7.6281,
+  "end": 7.7618
+ },
+ {
+  "word": "não",
+  "start": 7.7618,
+  "end": 7.9373
+ },
+ {
+  "word": "abri",
+  "start": 7.9373,
+  "end": 8.1545
+ },
+ {
+  "word": "o",
+  "start": 8.1545,
+  "end": 8.2465
+ },
+ {
+  "word": "After",
+  "start": 8.2465,
+  "end": 8.5055
+ },
+ {
+  "word": "nenhuma",
+  "start": 8.5055,
+  "end": 8.8481
+ },
+ {
+  "word": "vez",
+  "start": 8.8481,
+  "end": 9.0236
+ },
+ {
+  "word": "pra",
+  "start": 9.0236,
+  "end": 9.199
+ },
+ {
+  "word": "fazer",
+  "start": 9.199,
+  "end": 9.4581
+ },
+ {
+  "word": "o",
+  "start": 9.4581,
+  "end": 9.55
+ },
+ {
+  "word": "que",
+  "start": 9.55,
+  "end": 9.7255
+ },
+ {
+  "word": "tu",
+  "start": 9.7255,
+  "end": 9.8592
+ },
+ {
+  "word": "tá",
+  "start": 9.8592,
+  "end": 9.9929
+ },
+ {
+  "word": "vendo",
+  "start": 9.9929,
+  "end": 10.2519
+ },
+ {
+  "word": "aqui.",
+  "start": 10.2519,
+  "end": 10.4691
+ },
+ {
+  "word": "Nenhuma",
+  "start": 10.6091,
+  "end": 10.9841
+ },
+ {
+  "word": "keyframe",
+  "start": 10.9841,
+  "end": 11.4047
+ },
+ {
+  "word": "na",
+  "start": 11.4047,
+  "end": 11.551
+ },
+ {
+  "word": "mão.",
+  "start": 11.551,
+  "end": 11.8601
+ },
+ {
+  "word": "Zero",
+  "start": 11.8601,
+  "end": 12.0978
+ },
+ {
+  "word": "dor",
+  "start": 12.0978,
+  "end": 12.2899
+ },
+ {
+  "word": "de",
+  "start": 12.2899,
+  "end": 12.4362
+ },
+ {
+  "word": "cabeça.",
+  "start": 12.4362,
+  "end": 12.7654
+ },
+ {
+  "word": "Quer",
+  "start": 12.9454,
+  "end": 13.1474
+ },
+ {
+  "word": "saber",
+  "start": 13.1474,
+  "end": 13.3884
+ },
+ {
+  "word": "o",
+  "start": 13.3884,
+  "end": 13.4739
+ },
+ {
+  "word": "que",
+  "start": 13.4739,
+  "end": 13.6371
+ },
+ {
+  "word": "gerou",
+  "start": 13.6371,
+  "end": 13.878
+ },
+ {
+  "word": "esse",
+  "start": 13.878,
+  "end": 14.0801
+ },
+ {
+  "word": "vídeo",
+  "start": 14.0801,
+  "end": 14.6654
+ },
+ {
+  "word": "inteiro?",
+  "start": 14.6654,
+  "end": 14.984
+ },
+ {
+  "word": "Isso",
+  "start": 15.244,
+  "end": 15.6716
+ },
+ {
+  "word": "aqui",
+  "start": 15.6716,
+  "end": 16.0992
+ },
+ {
+  "word": "é",
+  "start": 16.0992,
+  "end": 16.2801
+ },
+ {
+  "word": "Antigravity,",
+  "start": 16.2801,
+  "end": 17.2834
+ },
+ {
+  "word": "meus",
+  "start": 17.2834,
+  "end": 17.711
+ },
+ {
+  "word": "amigos!",
+  "start": 17.711,
+  "end": 18.3031
+ },
+ {
+  "word": "Direto",
+  "start": 18.4147,
+  "end": 18.7528
+ },
+ {
+  "word": "do",
+  "start": 18.7528,
+  "end": 18.903
+ },
+ {
+  "word": "Google,",
+  "start": 18.903,
+  "end": 19.2411
+ },
+ {
+  "word": "rapaz!",
+  "start": 19.2411,
+  "end": 19.5322
+ },
+ {
+  "word": "E",
+  "start": 19.7122,
+  "end": 19.8321
+ },
+ {
+  "word": "eu",
+  "start": 19.8321,
+  "end": 20.0064
+ },
+ {
+  "word": "não",
+  "start": 20.0064,
+  "end": 20.2353
+ },
+ {
+  "word": "escrevi",
+  "start": 20.2353,
+  "end": 20.6821
+ },
+ {
+  "word": "nenhuma",
+  "start": 20.6821,
+  "end": 21.1288
+ },
+ {
+  "word": "linha",
+  "start": 21.1288,
+  "end": 21.4666
+ },
+ {
+  "word": "de",
+  "start": 21.4666,
+  "end": 21.641
+ },
+ {
+  "word": "código!",
+  "start": 21.641,
+  "end": 22.0333
+ },
+ {
+  "word": "Não",
+  "start": 22.1933,
+  "end": 22.4008
+ },
+ {
+  "word": "precisa",
+  "start": 22.4008,
+  "end": 22.8058
+ },
+ {
+  "word": "de",
+  "start": 22.8058,
+  "end": 22.9639
+ },
+ {
+  "word": "máquina",
+  "start": 22.9639,
+  "end": 23.369
+ },
+ {
+  "word": "da",
+  "start": 23.369,
+  "end": 23.5271
+ },
+ {
+  "word": "NASA",
+  "start": 23.5271,
+  "end": 23.784
+ },
+ {
+  "word": "nem",
+  "start": 23.784,
+  "end": 23.9914
+ },
+ {
+  "word": "gastar",
+  "start": 23.9914,
+  "end": 24.3471
+ },
+ {
+  "word": "fortuna",
+  "start": 24.3471,
+  "end": 24.8797
+ },
+ {
+  "word": "com",
+  "start": 24.8797,
+  "end": 25.0872
+ },
+ {
+  "word": "ferramenta",
+  "start": 25.0872,
+  "end": 25.6405
+ },
+ {
+  "word": "cara.",
+  "start": 25.6405,
+  "end": 25.8974
+ },
+ {
+  "word": "Com",
+  "start": 26.1777,
+  "end": 26.3851
+ },
+ {
+  "word": "ele",
+  "start": 26.3851,
+  "end": 26.5925
+ },
+ {
+  "word": "configurado",
+  "start": 26.5925,
+  "end": 27.1951
+ },
+ {
+  "word": "do",
+  "start": 27.1951,
+  "end": 27.3531
+ },
+ {
+  "word": "jeito",
+  "start": 27.3531,
+  "end": 27.6594
+ },
+ {
+  "word": "certo,",
+  "start": 27.6594,
+  "end": 27.9656
+ },
+ {
+  "word": "tu",
+  "start": 27.9656,
+  "end": 28.1236
+ },
+ {
+  "word": "simplesmente",
+  "start": 28.1236,
+  "end": 28.7756
+ },
+ {
+  "word": "pede",
+  "start": 28.7756,
+  "end": 29.2478
+ },
+ {
+  "word": "o",
+  "start": 29.2478,
+  "end": 29.3564
+ },
+ {
+  "word": "que",
+  "start": 29.3564,
+  "end": 29.7733
+ },
+ {
+  "word": "tu",
+  "start": 29.7733,
+  "end": 29.9313
+ },
+ {
+  "word": "quiser!",
+  "start": 29.9313,
+  "end": 30.2869
+ },
+ {
+  "word": "Olha",
+  "start": 30.4669,
+  "end": 30.7403
+ },
+ {
+  "word": "esse",
+  "start": 30.7403,
+  "end": 31.0137
+ },
+ {
+  "word": "quadrado",
+  "start": 31.0137,
+  "end": 31.4973
+ },
+ {
+  "word": "aqui:",
+  "start": 31.4973,
+  "end": 32.4187
+ },
+ {
+  "word": "quero",
+  "start": 32.4187,
+  "end": 32.7446
+ },
+ {
+  "word": "que",
+  "start": 32.7446,
+  "end": 32.9654
+ },
+ {
+  "word": "ele",
+  "start": 32.9654,
+  "end": 33.1862
+ },
+ {
+  "word": "vire",
+  "start": 33.1862,
+  "end": 33.4596
+ },
+ {
+  "word": "3D,",
+  "start": 33.4596,
+  "end": 34.0719
+ },
+ {
+  "word": "perca",
+  "start": 34.0719,
+  "end": 34.3978
+ },
+ {
+  "word": "a",
+  "start": 34.3978,
+  "end": 34.5135
+ },
+ {
+  "word": "gravidade...",
+  "start": 34.5135,
+  "end": 35.7255
+ },
+ {
+  "word": "e",
+  "start": 35.7255,
+  "end": 35.8411
+ },
+ {
+  "word": "exploda!",
+  "start": 35.8411,
+  "end": 36.2722
+ },
+ {
+  "word": "Tu",
+  "start": 36.4522,
+  "end": 36.6155
+ },
+ {
+  "word": "pode",
+  "start": 36.6155,
+  "end": 36.8808
+ },
+ {
+  "word": "pedir",
+  "start": 36.8808,
+  "end": 37.1972
+ },
+ {
+  "word": "literalmente",
+  "start": 37.1972,
+  "end": 37.8708
+ },
+ {
+  "word": "o",
+  "start": 37.8708,
+  "end": 37.983
+ },
+ {
+  "word": "que",
+  "start": 37.983,
+  "end": 38.1973
+ },
+ {
+  "word": "tu",
+  "start": 38.1973,
+  "end": 38.3606
+ },
+ {
+  "word": "quiser,",
+  "start": 38.3606,
+  "end": 38.728
+ },
+ {
+  "word": "bicho!",
+  "start": 38.728,
+  "end": 39.0444
+ },
+ {
+  "word": "Só",
+  "start": 39.2644,
+  "end": 39.4228
+ },
+ {
+  "word": "que",
+  "start": 39.4228,
+  "end": 39.8153
+ },
+ {
+  "word": "calma",
+  "start": 39.8153,
+  "end": 40.1223
+ },
+ {
+  "word": "lá...",
+  "start": 40.1223,
+  "end": 40.2807
+ },
+ {
+  "word": "não",
+  "start": 40.2807,
+  "end": 40.6648
+ },
+ {
+  "word": "foi",
+  "start": 40.6648,
+  "end": 40.8728
+ },
+ {
+  "word": "só",
+  "start": 40.8728,
+  "end": 41.0312
+ },
+ {
+  "word": "abrir",
+  "start": 41.0312,
+  "end": 41.3381
+ },
+ {
+  "word": "o",
+  "start": 41.3381,
+  "end": 41.447
+ },
+ {
+  "word": "Antigravity",
+  "start": 41.447,
+  "end": 42.19
+ },
+ {
+  "word": "puro",
+  "start": 42.19,
+  "end": 42.4474
+ },
+ {
+  "word": "e",
+  "start": 42.4474,
+  "end": 42.5563
+ },
+ {
+  "word": "jogar",
+  "start": 42.5563,
+  "end": 42.8633
+ },
+ {
+  "word": "um",
+  "start": 42.8633,
+  "end": 43.0217
+ },
+ {
+  "word": "pedido",
+  "start": 43.0217,
+  "end": 43.3781
+ },
+ {
+  "word": "genérico.",
+  "start": 43.3781,
+  "end": 43.8336
+ },
+ {
+  "word": "Se",
+  "start": 43.9936,
+  "end": 44.1425
+ },
+ {
+  "word": "tu",
+  "start": 44.1425,
+  "end": 44.2914
+ },
+ {
+  "word": "chegar",
+  "start": 44.2914,
+  "end": 44.6264
+ },
+ {
+  "word": "no",
+  "start": 44.6264,
+  "end": 44.7753
+ },
+ {
+  "word": "Antigravity",
+  "start": 44.7753,
+  "end": 45.3429
+ },
+ {
+  "word": "zerado,",
+  "start": 45.3429,
+  "end": 45.6779
+ },
+ {
+  "word": "sem",
+  "start": 45.6779,
+  "end": 45.8734
+ },
+ {
+  "word": "configurar",
+  "start": 45.8734,
+  "end": 46.3945
+ },
+ {
+  "word": "nada,",
+  "start": 46.3945,
+  "end": 46.6364
+ },
+ {
+  "word": "e",
+  "start": 46.6364,
+  "end": 46.7388
+ },
+ {
+  "word": "pedir",
+  "start": 46.7388,
+  "end": 47.0273
+ },
+ {
+  "word": "um",
+  "start": 47.0273,
+  "end": 47.1762
+ },
+ {
+  "word": "vídeo",
+  "start": 47.1762,
+  "end": 47.4647
+ },
+ {
+  "word": "igual",
+  "start": 47.4647,
+  "end": 47.7531
+ },
+ {
+  "word": "esse...",
+  "start": 47.7531,
+  "end": 47.9951
+ },
+ {
+  "word": "não",
+  "start": 48.125,
+  "end": 48.3252
+ },
+ {
+  "word": "vai",
+  "start": 48.3252,
+  "end": 48.5254
+ },
+ {
+  "word": "sair!",
+  "start": 48.5254,
+  "end": 48.7732
+ },
+ {
+  "word": "Porque",
+  "start": 48.9332,
+  "end": 49.2948
+ },
+ {
+  "word": "se",
+  "start": 49.2948,
+  "end": 49.4556
+ },
+ {
+  "word": "tu",
+  "start": 49.4556,
+  "end": 49.6163
+ },
+ {
+  "word": "pede",
+  "start": 49.6163,
+  "end": 49.8775
+ },
+ {
+  "word": "igual",
+  "start": 49.8775,
+  "end": 50.189
+ },
+ {
+  "word": "cliente",
+  "start": 50.189,
+  "end": 50.6009
+ },
+ {
+  "word": "indeciso:",
+  "start": 50.6009,
+  "end": 51.063
+ },
+ {
+  "word": "\"faz",
+  "start": 51.1746,
+  "end": 51.4145
+ },
+ {
+  "word": "um",
+  "start": 51.4145,
+  "end": 51.5973
+ },
+ {
+  "word": "vídeo",
+  "start": 51.5973,
+  "end": 51.9514
+ },
+ {
+  "word": "bem",
+  "start": 51.9514,
+  "end": 52.1913
+ },
+ {
+  "word": "bacana",
+  "start": 52.1913,
+  "end": 52.6025
+ },
+ {
+  "word": "aí\",",
+  "start": 52.6025,
+  "end": 52.7852
+ },
+ {
+  "word": "a",
+  "start": 52.7852,
+  "end": 52.9109
+ },
+ {
+  "word": "IA",
+  "start": 52.9109,
+  "end": 53.0937
+ },
+ {
+  "word": "vai",
+  "start": 53.0937,
+  "end": 53.3335
+ },
+ {
+  "word": "no",
+  "start": 53.3335,
+  "end": 53.5163
+ },
+ {
+  "word": "piloto",
+  "start": 53.5163,
+  "end": 53.9275
+ },
+ {
+  "word": "automático.",
+  "start": 53.9275,
+  "end": 54.5672
+ },
+ {
+  "word": "Aí",
+  "start": 54.7072,
+  "end": 54.8935
+ },
+ {
+  "word": "não",
+  "start": 54.8935,
+  "end": 55.1379
+ },
+ {
+  "word": "tem",
+  "start": 55.1379,
+  "end": 55.3824
+ },
+ {
+  "word": "milagre:",
+  "start": 55.3824,
+  "end": 55.8597
+ },
+ {
+  "word": "ela",
+  "start": 55.8597,
+  "end": 56.1042
+ },
+ {
+  "word": "entrega",
+  "start": 56.1042,
+  "end": 56.5815
+ },
+ {
+  "word": "o",
+  "start": 56.5815,
+  "end": 56.7096
+ },
+ {
+  "word": "mesmo",
+  "start": 56.7096,
+  "end": 57.0705
+ },
+ {
+  "word": "template",
+  "start": 57.0705,
+  "end": 57.606
+ },
+ {
+  "word": "que",
+  "start": 57.606,
+  "end": 57.8505
+ },
+ {
+  "word": "dá",
+  "start": 57.8505,
+  "end": 58.0367
+ },
+ {
+  "word": "pra",
+  "start": 58.0367,
+  "end": 58.2812
+ },
+ {
+  "word": "todo",
+  "start": 58.2812,
+  "end": 58.6957
+ },
+ {
+  "word": "mundo...",
+  "start": 58.6957,
+  "end": 59.0566
+ },
+ {
+  "word": "com",
+  "start": 59.0566,
+  "end": 59.3011
+ },
+ {
+  "word": "cara",
+  "start": 59.3011,
+  "end": 59.6038
+ },
+ {
+  "word": "de",
+  "start": 59.6038,
+  "end": 59.79
+ },
+ {
+  "word": "IA.",
+  "start": 59.79,
+  "end": 59.9763
+ },
+ {
+  "word": "Pra",
+  "start": 60.2163,
+  "end": 60.4306
+ },
+ {
+  "word": "chegar",
+  "start": 60.4306,
+  "end": 60.7978
+ },
+ {
+  "word": "nesse",
+  "start": 60.7978,
+  "end": 61.1141
+ },
+ {
+  "word": "nível,",
+  "start": 61.1141,
+  "end": 61.4303
+ },
+ {
+  "word": "não",
+  "start": 61.4303,
+  "end": 61.6446
+ },
+ {
+  "word": "basta",
+  "start": 61.6446,
+  "end": 61.9608
+ },
+ {
+  "word": "só",
+  "start": 61.9608,
+  "end": 62.1241
+ },
+ {
+  "word": "o",
+  "start": 62.1241,
+  "end": 62.2363
+ },
+ {
+  "word": "Antigravity",
+  "start": 62.2363,
+  "end": 62.8586
+ },
+ {
+  "word": "puro:",
+  "start": 62.8586,
+  "end": 63.1238
+ },
+ {
+  "word": "tu",
+  "start": 63.1238,
+  "end": 63.2871
+ },
+ {
+  "word": "precisa",
+  "start": 63.2871,
+  "end": 63.7053
+ },
+ {
+  "word": "dele",
+  "start": 63.7053,
+  "end": 63.9706
+ },
+ {
+  "word": "com",
+  "start": 63.9706,
+  "end": 64.1848
+ },
+ {
+  "word": "as",
+  "start": 64.1848,
+  "end": 64.3481
+ },
+ {
+  "word": "configurações",
+  "start": 64.3481,
+  "end": 65.0724
+ },
+ {
+  "word": "certas:",
+  "start": 65.0724,
+  "end": 65.4396
+ },
+ {
+  "word": "Skills,",
+  "start": 65.6596,
+  "end": 66.328
+ },
+ {
+  "word": "direção...",
+  "start": 66.328,
+  "end": 67.0892
+ },
+ {
+  "word": "e",
+  "start": 67.5217,
+  "end": 67.6765
+ },
+ {
+  "word": "referência.",
+  "start": 67.6765,
+  "end": 68.4646
+ },
+ {
+  "word": "Só",
+  "start": 68.6846,
+  "end": 68.9066
+ },
+ {
+  "word": "que",
+  "start": 68.9066,
+  "end": 69.198
+ },
+ {
+  "word": "configurar",
+  "start": 69.198,
+  "end": 70.1016
+ },
+ {
+  "word": "tudo",
+  "start": 70.1016,
+  "end": 70.4624
+ },
+ {
+  "word": "isso",
+  "start": 70.4624,
+  "end": 70.8232
+ },
+ {
+  "word": "do",
+  "start": 70.8232,
+  "end": 71.0452
+ },
+ {
+  "word": "zero",
+  "start": 71.0452,
+  "end": 71.406
+ },
+ {
+  "word": "—",
+  "start": 71.406,
+  "end": 71.5101
+ },
+ {
+  "word": "skills,",
+  "start": 71.5101,
+  "end": 72.0096
+ },
+ {
+  "word": "câmera,",
+  "start": 72.0096,
+  "end": 72.5092
+ },
+ {
+  "word": "ritmo,",
+  "start": 72.5092,
+  "end": 72.9394
+ },
+ {
+  "word": "áudio",
+  "start": 72.9394,
+  "end": 73.3696
+ },
+ {
+  "word": "e",
+  "start": 73.3696,
+  "end": 73.5222
+ },
+ {
+  "word": "3D",
+  "start": 73.5222,
+  "end": 73.7442
+ },
+ {
+  "word": "pra",
+  "start": 73.7442,
+  "end": 74.3148
+ },
+ {
+  "word": "sair",
+  "start": 74.3148,
+  "end": 74.6756
+ },
+ {
+  "word": "igual",
+  "start": 74.6756,
+  "end": 75.1057
+ },
+ {
+  "word": "esse",
+  "start": 75.1057,
+  "end": 75.4665
+ },
+ {
+  "word": "aqui",
+  "start": 75.4665,
+  "end": 75.8273
+ },
+ {
+  "word": "—",
+  "start": 75.8273,
+  "end": 75.9314
+ },
+ {
+  "word": "dá",
+  "start": 75.9314,
+  "end": 76.4111
+ },
+ {
+  "word": "trabalho...",
+  "start": 76.4111,
+  "end": 77.0494
+ },
+ {
+  "word": "principalmente",
+  "start": 77.1694,
+  "end": 77.954
+ },
+ {
+  "word": "se",
+  "start": 77.954,
+  "end": 78.1191
+ },
+ {
+  "word": "você",
+  "start": 78.1191,
+  "end": 78.3875
+ },
+ {
+  "word": "tá",
+  "start": 78.3875,
+  "end": 78.5527
+ },
+ {
+  "word": "começando",
+  "start": 78.5527,
+  "end": 79.0792
+ },
+ {
+  "word": "do",
+  "start": 79.0792,
+  "end": 79.2444
+ },
+ {
+  "word": "zero.",
+  "start": 79.2444,
+  "end": 79.5128
+ },
+ {
+  "word": "Mas",
+  "start": 79.7528,
+  "end": 79.9675
+ },
+ {
+  "word": "eu",
+  "start": 79.9675,
+  "end": 80.131
+ },
+ {
+  "word": "já",
+  "start": 80.131,
+  "end": 80.2946
+ },
+ {
+  "word": "montei",
+  "start": 80.2946,
+  "end": 80.6626
+ },
+ {
+  "word": "esse",
+  "start": 80.6626,
+  "end": 80.9284
+ },
+ {
+  "word": "fluxo",
+  "start": 80.9284,
+  "end": 81.2453
+ },
+ {
+  "word": "inteiro",
+  "start": 81.2453,
+  "end": 81.9442
+ },
+ {
+  "word": "rodando",
+  "start": 81.9442,
+  "end": 82.3633
+ },
+ {
+  "word": "liso",
+  "start": 82.3633,
+  "end": 82.6291
+ },
+ {
+  "word": "aqui",
+  "start": 82.6291,
+  "end": 82.8949
+ },
+ {
+  "word": "no",
+  "start": 82.8949,
+  "end": 83.0584
+ },
+ {
+  "word": "Antigravity",
+  "start": 83.0584,
+  "end": 83.682
+ },
+ {
+  "word": "—",
+  "start": 83.682,
+  "end": 83.7587
+ },
+ {
+  "word": "pronto",
+  "start": 83.7587,
+  "end": 84.5302
+ },
+ {
+  "word": "pra",
+  "start": 84.5302,
+  "end": 84.7449
+ },
+ {
+  "word": "criar",
+  "start": 84.7449,
+  "end": 85.0618
+ },
+ {
+  "word": "nesse",
+  "start": 85.0618,
+  "end": 85.3787
+ },
+ {
+  "word": "nível.",
+  "start": 85.3787,
+  "end": 85.6956
+ },
+ {
+  "word": "Então",
+  "start": 85.9156,
+  "end": 86.1968
+ },
+ {
+  "word": "já",
+  "start": 86.1968,
+  "end": 86.3419
+ },
+ {
+  "word": "comenta",
+  "start": 86.3419,
+  "end": 86.7137
+ },
+ {
+  "word": "FLUXO",
+  "start": 86.7137,
+  "end": 86.9949
+ },
+ {
+  "word": "aqui",
+  "start": 86.9949,
+  "end": 87.2307
+ },
+ {
+  "word": "embaixo",
+  "start": 87.2307,
+  "end": 87.6025
+ },
+ {
+  "word": "que",
+  "start": 87.6025,
+  "end": 87.793
+ },
+ {
+  "word": "eu",
+  "start": 87.793,
+  "end": 87.9381
+ },
+ {
+  "word": "te",
+  "start": 87.9381,
+  "end": 88.0832
+ },
+ {
+  "word": "mostro",
+  "start": 88.0832,
+  "end": 88.4097
+ },
+ {
+  "word": "o",
+  "start": 88.4097,
+  "end": 88.5094
+ },
+ {
+  "word": "fluxo",
+  "start": 88.5094,
+  "end": 88.7906
+ },
+ {
+  "word": "completo!",
+  "start": 88.7906,
+  "end": 89.2077
+ }
+]

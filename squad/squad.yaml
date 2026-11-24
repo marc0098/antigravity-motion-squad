@@ -1,0 +1,29 @@
+﻿squad:
+  code: "motion-design-squad"
+  name: "EstÃºdio de Motion Design"
+  icon: "ðŸŽ¬"
+
+name: "motion-design-squad"
+title: "EstÃºdio de Motion Design"
+description: "Squad profissional de Motion Design com 5 agentes: Diretor de Motion, Roteirista/Storyboard, Assets & Ãudio, Motion Designer (HyperFrames + Remotion + RAEA) e QA/Render Final."
+version: "1.2.0"
+
+skills:
+  - gemini-voice
+  - elevenlabs-voice
+  - image-creator
+  - motion-design
+  - motionmaxxing
+  - mg-styles-15
+  - reanimate
+  - raea
+  - web_search
+  - web_fetch
+
+data:
+  - pipeline/data/motion-reference-playbook.md
+  - pipeline/data/motion-stack-router.md
+
+pipeline:
+  file: pipeline/pipeline.yaml
+

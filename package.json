@@ -1,0 +1,24 @@
+{
+  "name": "antigravity-motion-squad",
+  "version": "1.0.0",
+  "description": "Squad e motor profissional de Motion Design para Google Antigravity — crie vídeos cinematográficos com código e IA sem abrir o After Effects.",
+  "type": "module",
+  "scripts": {
+    "serve": "node engine/serve.mjs templates/antigravity-promo 8766",
+    "serve:starter": "node engine/serve.mjs templates/starter 8766",
+    "render:starter": "node engine/render.mjs templates/starter/index.html dist/starter.mp4 --fps 30 --crf 18",
+    "render:promo": "node engine/render.mjs templates/antigravity-promo/index.html dist/promo.mp4 --fps 30 --crf 17 --grain 0.025",
+    "qa": "python engine/look.py dist/starter.mp4 --frames 12"
+  },
+  "keywords": [
+    "motion-design",
+    "antigravity",
+    "google-antigravity",
+    "gsap",
+    "threejs",
+    "headless-chrome",
+    "creative-coding"
+  ],
+  "author": "Marcelo Vydo (@marcelo.vydo)",
+  "license": "MIT"
+}

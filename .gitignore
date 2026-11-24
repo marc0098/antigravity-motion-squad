@@ -1,0 +1,36 @@
+# Dependências e Builds
+node_modules/
+dist/
+temp/
+chunks/
+*.mp4
+*.wav
+*.m4a
+!assets/sfx/*.mp3
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+*.pem
+*.key
+
+# Caches de ferramentas
+.cache/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# Arquivos de evento e relatórios gerados
+*.events.json
+events.json
+sheet.jpg
+mid.jpg
+strips.jpg
+cuts.txt
+still.txt

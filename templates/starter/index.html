@@ -1,0 +1,71 @@
+﻿<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <title>Starter Motion Project — Antigravity</title>
+  <meta name="viewport" content="width=1920, height=1080">
+  <link rel="stylesheet" href="./assets/fonts/fonts.css">
+  <style>
+    :root {
+      --f-cond: "Anton", sans-serif;
+      --f-wide: "Oswald", sans-serif;
+      --f-ui: "Poppins", sans-serif;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body {
+      width: 1920px; height: 1080px; overflow: hidden;
+      background: #000; font-family: var(--f-ui); -webkit-font-smoothing: antialiased;
+    }
+    #main {
+      position: relative; width: 1920px; height: 1080px; overflow: hidden;
+      background: #080a0f;
+    }
+    .scene {
+      position: absolute; inset: 0; display: flex; flex-direction: column;
+      align-items: center; justify-content: center; visibility: hidden;
+    }
+    .hero-text {
+      font-family: var(--f-cond); font-size: 260px; line-height: 0.9;
+      color: #ffffff; text-align: center; text-transform: uppercase;
+    }
+    .sub-text {
+      font-family: var(--f-wide); font-size: 72px; color: #3186ff;
+      letter-spacing: 0.05em; margin-top: 20px; text-transform: uppercase;
+    }
+    .badge {
+      display: inline-flex; align-items: center; gap: 12px; padding: 12px 28px;
+      border-radius: 999px; background: rgba(49, 134, 255, 0.15);
+      border: 1px solid rgba(49, 134, 255, 0.4); color: #749bff;
+      font-size: 22px; font-weight: 600; margin-bottom: 24px;
+    }
+  </style>
+</head>
+<body>
+<div id="main" data-composition-id="main" data-start="0" data-duration="12" data-width="1920" data-height="1080">
+  
+  <!-- Cena 1 -->
+  <section id="s01" class="scene">
+    <div class="badge">ANTIGRAVITY MOTION SQUAD</div>
+    <div id="s01-title" class="hero-text">SEU VÍDEO</div>
+    <div id="s01-sub" class="sub-text">CRIADO COM CÓDIGO</div>
+  </section>
+
+  <!-- Cena 2 -->
+  <section id="s02" class="scene">
+    <div id="s02-title" class="hero-text" style="color: #3186ff">SEM AFTER</div>
+    <div id="s02-sub" class="sub-text" style="color: #ffffff">ZERO DOR DE CABEÇA</div>
+  </section>
+
+  <!-- Cena 3 -->
+  <section id="s03" class="scene">
+    <div id="s03-title" class="hero-text">1080P • 30 FPS</div>
+    <div id="s03-sub" class="sub-text">RENDER DETERMINÍSTICO</div>
+  </section>
+
+</div>
+
+<script src="./runtime/vendor/gsap.min.js"></script>
+<script src="./runtime/motion.js"></script>
+<script src="./scenes.js"></script>
+</body>
+</html>
